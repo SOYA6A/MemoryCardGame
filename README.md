@@ -7,10 +7,13 @@ le but est de mémoriser les emplacements des cartes et de les associer le plus 
 
 ## Technologie utilisées:
 
--HTML
--CSS
--JavaScript
--Google material icons
+- HTML
+
+- CSS
+
+- JavaScript
+
+- Google material icons
 
 ## Capture écran:
 <img width="1240" alt="Screenshot 2025-03-26 at 23 16 15" src="https://github.com/user-attachments/assets/37ec0427-a72c-45e8-a527-8cdd38dad0c7" />
