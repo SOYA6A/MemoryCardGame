@@ -8,11 +8,8 @@ le but est de mémoriser les emplacements des cartes et de les associer le plus 
 ## Technologie utilisées:
 
 - HTML
-
 - CSS
-
 - JavaScript
-
 - Google material icons
 
 ## Capture écran:
